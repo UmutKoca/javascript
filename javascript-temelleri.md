@@ -1,6 +1,6 @@
 # Javascript Temelleri
 
-1. [Giriş] Giriş
+1. [Giriş](Giriş)
 2. Veriyi Kullanma
 3. Operatörler ve Expressionlar ile Çalışma
 4. Kontrol Yapıları
