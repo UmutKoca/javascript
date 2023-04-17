@@ -1,8 +1,8 @@
 # Javascript Temelleri
 
 1. [Giriş](##Giriş)
-2. Veriyi Kullanma
-3. Operatörler ve Expressionlar ile Çalışma
+2. [Veriyi Kullanma](##Veriyi Kullanma)
+3. Operatörler ve Deyimler ile Çalışma
 4. Kontrol Yapıları
 5. Diziler
 6. Objeler
